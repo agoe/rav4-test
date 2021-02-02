@@ -1,5 +1,5 @@
 {
-  "name": "rav4-test",
+  "name": "@agoe/rav4-test",
   "version": "0.1.0",
   "description": "JSON API data provider for react-admin + Support for SAFRS",
   "author": "agoe",
