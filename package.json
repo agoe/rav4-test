@@ -4,7 +4,7 @@
   "description": "JSON API data provider for react-admin + Support for SAFRS",
   "author": "agoe",
   "license": "MIT",
-  "repository": "agoe/rav4-test",
+  "repository": "https://github.com/agoe/rav4-test.git",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
